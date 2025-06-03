@@ -15,7 +15,6 @@ from result import Result
 from utils.json_parser import *
 from utils.parser import csv_to_result
 import os
-import printer
 from printer import printer_templates
 from printer import log
 import webbrowser
